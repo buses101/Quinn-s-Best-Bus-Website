@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<link rel='stylesheet' href='https://www.w3schools.com/w3css/4/w3.css'>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<body>
+    <header id="header" class="w3-wide w3-black"> Quinn's best Informational Bus Website</header>
+    <nav class="w3-bar w3-black">
+        <a href="https://buses101.github.io/STEM/" class="w3-button w3-bar-item">Home</a>
+        <a href="file:///C:/Users/Mag%204/OneDrive/Desktop/STEM/Agency-Selection.html" class="w3-button w3-bar-item">Agencies</a>
+        <a href="https://buses101.github.io/Tracking-Apps/" class="w3-button w3-bar-item">Tracking Apps</a>
+        <a href="#Meet the Bus Fan!" class="w3-button w3-bar-item">Meet the Bus Fan!</a>
+        <a href="file:///C:/Users/Mag%204/OneDrive/Desktop/STEM/Socials.html" class="w3-button w3-bar-item">Socials</a>
+    </nav>
+    <section>
+        <a href="https://buses101.github.io/Agency-OmniTrans/"> <img src="https://th.bing.com/th/id/OIP.lbSUggmq7AxMp7nW8vS_GAHaE8?w=258&h=180&c=7&r=0&o=5&pid=1.7" style="width: 325px; height: 275px;" alt="OmniTans Bus Photo with Link"></a>
+        <a href="https://buses101.github.io/Agency-RTA/"> <img src="https://th.bing.com/th/id/OIP.yE4ATkSQWkPa91Sa1HNI7AHaFj?w=241&h=181&c=7&r=0&o=5&pid=1.7" style="width: 325px; height: 275px;" alt="RTA Bus Photo with Link"></a>
+        <style>
+        body {
+            background-color: grey;
+        }
+        #header{
+            text-align: center;
+            font-size: 18px;
+        }
+    </style>
